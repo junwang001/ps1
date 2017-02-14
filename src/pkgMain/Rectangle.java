@@ -17,6 +17,7 @@ public class Rectangle {
 	
 	public double Area()
 	{
+		// Text
 		// TODO Implement Area() function with the correct formula
 		return 0;
 	}	
